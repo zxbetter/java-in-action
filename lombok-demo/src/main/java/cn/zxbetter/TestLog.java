@@ -1,9 +1,7 @@
 package cn.zxbetter;
 
 
-import lombok.extern.java.Log;
 import lombok.extern.slf4j.Slf4j;
-import lombok.extern.slf4j.XSlf4j;
 
 /**
  * #8 日志对象
@@ -38,6 +36,6 @@ import lombok.extern.slf4j.XSlf4j;
 @Slf4j
 public class TestLog {
     public static void main(String[] args) {
-        log.info("111");
+        LOG.info("111");
     }
 }
