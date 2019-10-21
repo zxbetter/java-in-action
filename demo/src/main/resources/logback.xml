@@ -1,5 +1,5 @@
 <Configuration>
-    <property name="LOG_HOME" value="D:/datas/logs/java-in-action" />
+    <property name="LOG_HOME" value="~/logs/java-in-action" />
 
     <property name="COLOR_CONSOLE"
               value="[%d{yyyy-MM-dd HH:mm:ss.SSS}] [%highlight(%-5level)] %logger - %msg%n" />
