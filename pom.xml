@@ -11,6 +11,7 @@
         <module>lombok</module>
         <module>lombok-demo</module>
         <module>demo</module>
+        <module>effective-java</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -36,7 +37,7 @@
             <dependency>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>
-                <version>1.18.4</version>
+                <version>1.18.10</version>
             </dependency>
             <dependency>
                 <groupId>ch.qos.logback</groupId>
