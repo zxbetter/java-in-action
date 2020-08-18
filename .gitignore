@@ -1,4 +1,5 @@
 /.idea/
-/java-in-action.iml
 target/
 *.iml
+tmp/
+.DS_Store
