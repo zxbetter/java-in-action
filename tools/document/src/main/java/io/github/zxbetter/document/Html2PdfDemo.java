@@ -1,4 +1,4 @@
-package io.github.zxbetter;
+package io.github.zxbetter.document;
 
 import com.itextpdf.html2pdf.ConverterProperties;
 import com.itextpdf.html2pdf.HtmlConverter;
