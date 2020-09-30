@@ -1,0 +1,17 @@
+spring:
+  activiti:
+    # 启动时，检查和部署流程定义文件
+    check-process-definitions: false
+    # 存放流程定义文件的目录
+    process-definition-location-prefix: classpath:/processes/
+    # 流程定义文件的格式
+    process-definition-location-suffixes:
+      - "**.bpmn20.xml"
+      - "**.bpmn"
+    # 启动时更新数据库结构
+    database-schema-update: true
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/act?useSSL=false
+    username: root
+    password: roott
