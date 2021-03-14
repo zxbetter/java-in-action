@@ -12,7 +12,7 @@
     <groupId>io.github.zxbetter</groupId>
     <artifactId>activiti6</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>activiti6</name>
+    <name>Activiti6</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
