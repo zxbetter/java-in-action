@@ -24,7 +24,7 @@
         <commons-lang3.version>3.12.0</commons-lang3.version>
 
         <html2pdf.version>2.1.7</html2pdf.version>
-        <jsoup.version>1.13.1</jsoup.version>
+        <jsoup.version>1.14.2</jsoup.version>
         <h2.version>1.4.200</h2.version>
         <mysql.version>5.1.49</mysql.version>
         <activiti6.version>6.0.0</activiti6.version>
