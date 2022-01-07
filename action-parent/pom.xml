@@ -25,7 +25,7 @@
 
         <html2pdf.version>2.1.7</html2pdf.version>
         <jsoup.version>1.13.1</jsoup.version>
-        <h2.version>1.4.200</h2.version>
+        <h2.version>2.0.206</h2.version>
         <mysql.version>5.1.49</mysql.version>
         <activiti6.version>6.0.0</activiti6.version>
     </properties>
